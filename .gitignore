@@ -68,6 +68,7 @@ instance/
 !.env.example
 *.db
 *.sqlite
+*.sqlite3
 
 # Scrapy stuff:
 .scrapy
