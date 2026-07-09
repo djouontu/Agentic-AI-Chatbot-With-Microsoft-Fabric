@@ -224,7 +224,7 @@ By specifying the version using `py -3.9` or `python3.9`, you can ensure that th
 3. Ensure all credentials are working correctly.
 4. Run `app.py` in the root folder to start the application. using 
 `python app.py`
-``
+`
 ├─ Agent
 │  ├─ agent.py
 │  ├─ intent.py
@@ -253,5 +253,5 @@ By specifying the version using `py -3.9` or `python3.9`, you can ensure that th
 ├─ requirements.txt
 └─ templates
    └─ index.html
-
+`
 ```
